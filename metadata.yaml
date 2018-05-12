@@ -1,5 +1,8 @@
 _repo: The-Avenger_9871
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -17,6 +20,8 @@ description: The man and the woman stood facing one another, although in the unc
   side of the desk-- his desk. The slim trembling fingers of one hand rested lightly
   upon it, the other was hanging by her side, nervously crumpling up the glove which
   she had only taken off a few minutes before.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9871#The-Avenger
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
