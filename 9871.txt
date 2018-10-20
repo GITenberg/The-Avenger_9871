@@ -789,7 +789,7 @@ to go immediately on his arrival, at whatever hour, to the Hotel Francis.
 Presumably he would know from whom the message came, and the sender does
 not seem to have doubted that if it was conveyed to Barnes he would obey
 the summons. Wrayson agrees to and does deliver it. That is to say, he
-writes it down and leaves it in the letter-box of Barnes door, Barnes not
+writes it down and leaves it in the letter-box of Barnes' door, Barnes not
 having yet returned. Now we begin to get mysterious. That communication
 from our friend here has not been discovered. It was not in the
 letter-box; it was not upon the person of the dead man. We cannot tell
@@ -850,7 +850,7 @@ towards Wrayson. "What about a pool?"
 "And I," Mason assented.
 
 "And I can't," the Colonel said regretfully. "I must go down to Balham
-and see poor Carlo Mallini I hear he's very queer."
+and see poor Carlo Mallini; I hear he's very queer."
 
 The Colonel loved pool, and he hated a sick-room. The click of the
 billiard balls reached him as he descended the stairs, but he only sighed
@@ -2467,7 +2467,7 @@ saying--who or what I am. Listen! I think I hear the Baroness."
 
 She leaned a little forward, and the madness fired his blood. Half
 stupefied, she yielded to his embrace, her lips rested upon his, her
-frightened eyes were half closed. His arms held her like a vise, he could
+frightened eyes were half closed. His arms held her like a vice, he could
 feel her heart throbbing madly against his. How long they remained like
 it he never knew--who can measure the hours spent in Paradise! She flung
 him from her at last, taking him by surprise with a sudden burst of
@@ -5096,7 +5096,7 @@ some papers which had come into the hands of Mr. Morris Barnes. That is
 why I am civil to that little--what you call bounder, his brother."
 
 "It sounds reasonable enough, this," Wrayson said; "but what about
-the murder of Morris Baines, on the very night, you know, when Louise
+the murder of Morris Barnes, on the very night, you know, when Louise
 was there?"
 
 "It is all a very simple matter," the Baroness answered, quietly, "but
@@ -7636,7 +7636,9 @@ unconcerned, but the hand which played with his wineglass shook.
 
 "There or inside the building! It is impossible to say."
 
-"And no one was ever tried for the murder?" "No one," Wrayson answered.
+"And no one was ever tried for the murder?"
+
+"No one," Wrayson answered.
 
 Duncan swallowed a glassful of wine.
 
@@ -9635,7 +9637,7 @@ flat. Colonel or no colonel, I won't have it. I'll send for the police."
 
 The Colonel smiled.
 
-"No,"' he said, "don't do that. Besides, I know what I'm talking about. I
+"No," he said, "don't do that. Besides, I know what I'm talking about. I
 mean the packet which I think I can see sticking out of your coat pocket.
 You have just stolen that from Mrs. Barnes' tin trunk, you know."
 
